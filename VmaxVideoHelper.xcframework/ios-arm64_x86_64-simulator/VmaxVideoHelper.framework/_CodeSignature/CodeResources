@@ -78,11 +78,11 @@
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		jNG4YsqQDyH+But0AsxlrT+7R3I=
+		x1h0YO55c/k8Esv4PsiCcJOIrw8=
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		0kQXiu2uD0BSZ1N+9Ej4ZScsnrc=
+		wZjkGXPBvEzILZ3vhSBAa4ovahY=
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -90,11 +90,11 @@
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		KshOCP/IRMWGre/uz7XkS3Nc7jY=
+		siPA6wGgHrPQ770YqnAaiVRbyKw=
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		seaxhn81vM2TiKrIiLyBwaAQrTw=
+		79za9Ue8GxrN/LdsPijAn8p201I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>VmaxVideoInstreamLayout.nib</key>
 		<data>
-		4p9DBVmipq2OroIbuPCKZcaLcqA=
+		zvgtzklaihXOyaJ2V4+VOW0HyVA=
 		</data>
 		<key>VmaxVideoInterstitialLayout.nib</key>
 		<data>
@@ -246,14 +246,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+OLAt5IR4xp9BEdiW3SGMFxNU/9bLZDFOtzw9NVPoOs=
+			YP8gDZ0wKgdm/ONl2MgCCL/aherRfZLXkUnWPcgCgrE=
 			</data>
 		</dict>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vFctbpWhkwk6lWOzscleCmTa9eQsjkWz60u9t0sGXZ4=
+			H9Psx82PmVnpb1A+2hgX8gcWSvXwfKXzg5/h2fRqSXE=
 			</data>
 		</dict>
 		<key>Modules/VmaxVideoHelper.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -267,14 +267,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Whsh8Uqub0nmare+yBi/HLk7UEa/NYu6zcvF0fpV32Y=
+			GaJD2UkxdskmlzrlXFC74afMUJ/UWYDgeX2sj7NJ5zI=
 			</data>
 		</dict>
 		<key>Modules/VmaxVideoHelper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Gqyh9WT11x+Ohx28MX1Z5WJuwqQZpwVlhsoXzz2ZJXg=
+			BI5kzX9I1Sy3wl43a0PPZqlK194h3uhRzZdD8LSeWPw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -302,7 +302,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kLyXlFPtq1erYv1Hh2KKAYBUZq3l7kfgV2eoBlwls/E=
+			Tss6giOWM70BIQyqa4+819gqWSGU6AU5Ux3QpsTxPKs=
 			</data>
 		</dict>
 		<key>VmaxVideoInterstitialLayout.nib</key>

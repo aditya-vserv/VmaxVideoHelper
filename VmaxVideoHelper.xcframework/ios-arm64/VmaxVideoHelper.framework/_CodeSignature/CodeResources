@@ -22,7 +22,7 @@
 		</data>
 		<key>Frameworks/Vmax.framework/Vmax</key>
 		<data>
-		elWXfTVMhRzCca9njnKyuItX0IQ=
+		dblrshOdMl7DZIxjRQMpfHc83R0=
 		</data>
 		<key>Frameworks/Vmax.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Frameworks/VmaxVastHelper.framework/VmaxVastHelper</key>
 		<data>
-		S29BINRh8bTsn3ilH/BtcZf/3R4=
+		YcuSOc+nzeCR4OmofwE/sPzgDkM=
 		</data>
 		<key>Frameworks/VmaxVastHelper.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -78,11 +78,11 @@
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		ibBAvhoTDU9/GCUpOi0o6XSK/Qs=
+		PY1Q+DxVZDMmMHjWim9Y3gZAZuk=
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		rPxTKYY8Fhp1024URzApbm0Dk8s=
+		Af3FhsvwixElJZnfDDb1sfDnOcM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>VmaxVideoInstreamLayout.nib</key>
 		<data>
-		4p9DBVmipq2OroIbuPCKZcaLcqA=
+		zvgtzklaihXOyaJ2V4+VOW0HyVA=
 		</data>
 		<key>VmaxVideoInterstitialLayout.nib</key>
 		<data>
@@ -143,7 +143,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dwvoci3VOtfCEya0BF8xbBV1AyTPfYZxtfvvQTgZmps=
+			yYg1sJkukRKCet5B/9XQTXVdwMwwYfws6ZVNHljParo=
 			</data>
 		</dict>
 		<key>Frameworks/Vmax.framework/_CodeSignature/CodeResources</key>
@@ -199,7 +199,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DpunX5qxWAMyYEhpxtaETFbuaChSrM0i2lyQrMpuLME=
+			MhEPP5T1AKKxIid0KKHKLiAOtaoORMzj8HfNpSgTR4Q=
 			</data>
 		</dict>
 		<key>Frameworks/VmaxVastHelper.framework/_CodeSignature/CodeResources</key>
@@ -234,14 +234,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			46cMTQ/NB99SSQDcrPNHYAQxgHqO2WaO6XSi1X/uGO0=
+			MK0or4x2g56v9gJTH/CTx27OKqWKgu3clEYBoxsQjSA=
 			</data>
 		</dict>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1298FvQOmUjvCDmzws/YEnkRao0QzC4Y+HP1WslZ1RM=
+			Parno65jwTZOyULwWdasHNFlhWoD94UlM9MRzVz6AiE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -269,7 +269,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kLyXlFPtq1erYv1Hh2KKAYBUZq3l7kfgV2eoBlwls/E=
+			Tss6giOWM70BIQyqa4+819gqWSGU6AU5Ux3QpsTxPKs=
 			</data>
 		</dict>
 		<key>VmaxVideoInterstitialLayout.nib</key>

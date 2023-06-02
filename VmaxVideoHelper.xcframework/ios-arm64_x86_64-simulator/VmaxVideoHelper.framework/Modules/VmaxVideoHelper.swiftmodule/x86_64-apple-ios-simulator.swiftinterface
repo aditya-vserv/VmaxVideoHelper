@@ -73,7 +73,6 @@ extension VmaxVideoHelper.VmaxVideoInstreamLayout : VmaxVideoHelper.VmaxVideoLay
   @_Concurrency.MainActor(unsafe) final public func update(totalAdDuration: Swift.Int)
   @_Concurrency.MainActor(unsafe) final public func update(state: Vmax.PauseResume)
   @_Concurrency.MainActor(unsafe) final public func update(state: Vmax.MuteUnmute)
-  @_Concurrency.MainActor(unsafe) final public func update(state: Vmax.ExpandCollapse)
   @_Concurrency.MainActor(unsafe) final public func update(ctaText: Swift.String)
   @_Concurrency.MainActor(unsafe) final public func update(skipState: Vmax.VmaxSkipState)
   @_Concurrency.MainActor(unsafe) final public func update(adText: Swift.String)
