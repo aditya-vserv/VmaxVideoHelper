@@ -204,6 +204,9 @@ extension VmaxVideoHelper.VmaxAdInstream : Vmax.VmaxCompanionEventDelegate {
 extension VmaxVideoHelper.VmaxAdInstream : Vmax.VmaxViewabilityProtocol {
   public func add(viewability: Vmax.VmaxAdViewability)
 }
+extension VmaxVideoHelper.VmaxAdInstream : Vmax.VmaxInstreamAd {
+  public func update(container view: UIKit.UIView)
+}
 public protocol VmaxVideoLayout : Vmax.VmaxLayout {
   func getOverlayContainer() -> UIKit.UIView?
   func update(state: Vmax.PauseResume)

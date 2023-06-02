@@ -22,7 +22,7 @@
 		</data>
 		<key>Frameworks/Vmax.framework/Vmax</key>
 		<data>
-		gJJhOaWWXAWocWym3HaIp2/I28I=
+		elWXfTVMhRzCca9njnKyuItX0IQ=
 		</data>
 		<key>Frameworks/Vmax.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Frameworks/VmaxVastHelper.framework/VmaxVastHelper</key>
 		<data>
-		5R0Q+7zUg8UaW2fkHzSHhFW331g=
+		S29BINRh8bTsn3ilH/BtcZf/3R4=
 		</data>
 		<key>Frameworks/VmaxVastHelper.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Headers/VmaxVideoHelper-Swift.h</key>
 		<data>
-		hwBNIA7BqaTaidyW40VqGqjNMno=
+		h+qp4BN/FfCVRa5/6nwRpdZLl+k=
 		</data>
 		<key>Headers/VmaxVideoHelper.h</key>
 		<data>
@@ -78,11 +78,11 @@
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		GPwTS+Vlr8HmkR70gFi4m7xRK6Q=
+		ibBAvhoTDU9/GCUpOi0o6XSK/Qs=
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		H40sbd+yfjbsMIqSjZbrRFESM8Q=
+		rPxTKYY8Fhp1024URzApbm0Dk8s=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -143,7 +143,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w1En7DQ+47eYozYShXhEAVdV7YdjV2+x2NE+M/16pb8=
+			dwvoci3VOtfCEya0BF8xbBV1AyTPfYZxtfvvQTgZmps=
 			</data>
 		</dict>
 		<key>Frameworks/Vmax.framework/_CodeSignature/CodeResources</key>
@@ -199,7 +199,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ArZZeVnPm8Uf9qsvhvBLIRIAdcd+z3C/330QWKJ2k9I=
+			DpunX5qxWAMyYEhpxtaETFbuaChSrM0i2lyQrMpuLME=
 			</data>
 		</dict>
 		<key>Frameworks/VmaxVastHelper.framework/_CodeSignature/CodeResources</key>
@@ -213,7 +213,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			o2QULbk998McMh5CGgjHgm1x5jEDsoikYEEiM/27R+E=
+			fnWtJ/Hu0U/mvxRJ1cyzJ8L16pbM6XlSUTV7wgR4kwc=
 			</data>
 		</dict>
 		<key>Headers/VmaxVideoHelper.h</key>
@@ -234,14 +234,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yT44trnq6kNwGYOBOIDWNIGlWx56XHBNpL01Um1A+wo=
+			46cMTQ/NB99SSQDcrPNHYAQxgHqO2WaO6XSi1X/uGO0=
 			</data>
 		</dict>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			k7OzxqdcHrVXtXTajh6v12F2LttwfpwHxyf0VmAJAD4=
+			1298FvQOmUjvCDmzws/YEnkRao0QzC4Y+HP1WslZ1RM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

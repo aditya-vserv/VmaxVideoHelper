@@ -260,6 +260,7 @@ SWIFT_CLASS("_TtC15VmaxVideoHelper14VmaxAdInstream")
 
 
 
+
 /// VmaxAdInterstitialVideo allows you draw <code>Interstitial</code> Video ad experience.
 SWIFT_CLASS("_TtC15VmaxVideoHelper23VmaxAdInterstitialVideo")
 @interface VmaxAdInterstitialVideo : NSObject
@@ -560,6 +561,7 @@ SWIFT_CLASS("_TtC15VmaxVideoHelper14VmaxAdInstream")
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
+
 
 
 
