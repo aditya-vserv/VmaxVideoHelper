@@ -54,7 +54,7 @@
 		</data>
 		<key>Frameworks/VmaxVastHelper.framework/VmaxVastHelper</key>
 		<data>
-		JjIl1Pt/fvXpfJLJ5FwcI8WPLqM=
+		opVY7er5UBOMh+8VY+45bVWRDwg=
 		</data>
 		<key>Frameworks/VmaxVastHelper.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		wZjkGXPBvEzILZ3vhSBAa4ovahY=
+		ZDhm+wCYyjgFOiaWHhqg0t5TK9U=
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		79za9Ue8GxrN/LdsPijAn8p201I=
+		b3toteh5SGlC+0dBacxztwGsYcI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -211,7 +211,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/R4V1zi2tx3kyNg/EnNNp9o9j+3+TeO0PVJDqj+ygao=
+			MQYbCOwzQiX6JYx/TB5reeYvjsOnlcgWVufOz+Xh/y0=
 			</data>
 		</dict>
 		<key>Frameworks/VmaxVastHelper.framework/_CodeSignature/CodeResources</key>
@@ -253,7 +253,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			H9Psx82PmVnpb1A+2hgX8gcWSvXwfKXzg5/h2fRqSXE=
+			uS06250yvU81+jN2Nr9+dB1VKIm3E7dIi5y7Hja7glc=
 			</data>
 		</dict>
 		<key>Modules/VmaxVideoHelper.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -274,7 +274,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BI5kzX9I1Sy3wl43a0PPZqlK194h3uhRzZdD8LSeWPw=
+			1MenWbUZDBAWF3h1W8YuPGCDAz60wHWeeu5k+XJN0T4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
