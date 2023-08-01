@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ZDhm+wCYyjgFOiaWHhqg0t5TK9U=
+		umwHmV+1d7CALYn9AfF3ItlvWWE=
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		b3toteh5SGlC+0dBacxztwGsYcI=
+		bbLk5/DcjIMHgXDNruPdc6Iz91Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -58,15 +58,15 @@
 		</data>
 		<key>VmaxVideoBillboardLayout.nib</key>
 		<data>
-		DH1yn8DaoO2X9xRa0A/G210a088=
+		a8m+OMzQlNnRcYX6unmUE6CMtqU=
 		</data>
 		<key>VmaxVideoInstreamLayout.nib</key>
 		<data>
-		zvgtzklaihXOyaJ2V4+VOW0HyVA=
+		j0dDdUbI8et9P+ySK4WmBKbv/GY=
 		</data>
 		<key>VmaxVideoInterstitialLayout.nib</key>
 		<data>
-		IaPg4jXu9CbgzSLtMB8D1SB6emg=
+		kvq8u7HoKSt4EREg60akC7fz8MM=
 		</data>
 		<key>VmaxVideoOutstreamLayout.nib</key>
 		<data>
@@ -121,7 +121,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uS06250yvU81+jN2Nr9+dB1VKIm3E7dIi5y7Hja7glc=
+			1CUkzybznYo7Z97YABmhQ6jg4BjOUUdczricd9bFq8I=
 			</data>
 		</dict>
 		<key>Modules/VmaxVideoHelper.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -142,7 +142,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1MenWbUZDBAWF3h1W8YuPGCDAz60wHWeeu5k+XJN0T4=
+			0vd3O5qcdXBxbfPGhZZab18jRrh1yvvwHQsrR050Bqw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -163,21 +163,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CqMGOhHjpMaSkRI3D5MetVDG5jj/23b8HvWGfTJXOuo=
+			zsrvcqIEJhtI7bOZRXPdgua+r0UYe/QeWgtFGJkJFk0=
 			</data>
 		</dict>
 		<key>VmaxVideoInstreamLayout.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Tss6giOWM70BIQyqa4+819gqWSGU6AU5Ux3QpsTxPKs=
+			rhflLOPnRkfCT0mX2ljpXB3mNef1+9vIwIF6fdzAoek=
 			</data>
 		</dict>
 		<key>VmaxVideoInterstitialLayout.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+WRI8WxrCOVYGsaY75vIJBSpXLXFnb6Xlx6Np/zp1bA=
+			Y8AtaZChNsP9ifw62iVA88jXo9e+npZ5lqYLvxatvv8=
 			</data>
 		</dict>
 		<key>VmaxVideoOutstreamLayout.nib</key>
