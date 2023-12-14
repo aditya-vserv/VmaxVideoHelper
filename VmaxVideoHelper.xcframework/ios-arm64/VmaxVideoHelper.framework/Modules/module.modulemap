@@ -6,6 +6,6 @@ framework module VmaxVideoHelper {
 }
 
 module VmaxVideoHelper.Swift {
-    header "VmaxVideoHelper-Swift.h"
-    requires objc
+  header "VmaxVideoHelper-Swift.h"
+  requires objc
 }
