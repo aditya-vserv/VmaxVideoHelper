@@ -75,7 +75,6 @@ extension VmaxVideoHelper.VmaxVideoInstreamLayout : VmaxVideoHelper.VmaxVideoLay
   @_Concurrency.MainActor(unsafe) final public func update(currentAdDuration: Swift.Int)
   @_Concurrency.MainActor(unsafe) final public func update(totalAdDuration: Swift.Int)
   @_Concurrency.MainActor(unsafe) final public func update(state: Vmax.PauseResume)
-  @_Concurrency.MainActor(unsafe) final public func update(state: Vmax.MuteUnmute)
   @_Concurrency.MainActor(unsafe) final public func update(ctaText: Swift.String)
   @_Concurrency.MainActor(unsafe) final public func update(skipState: Vmax.VmaxSkipState)
   @_Concurrency.MainActor(unsafe) final public func update(adText: Swift.String)
@@ -83,10 +82,6 @@ extension VmaxVideoHelper.VmaxVideoInstreamLayout : VmaxVideoHelper.VmaxVideoLay
   @_Concurrency.MainActor(unsafe) final public func isFullScreen() -> Swift.Bool
   @_Concurrency.MainActor(unsafe) final public func setOverlayAdspotIds(adSpots: [Swift.String])
   @_Concurrency.MainActor(unsafe) final public func getOverlayAdspotIds() -> [Swift.String]
-}
-extension VmaxVideoHelper.VmaxVideoInstreamLayout {
-  @_Concurrency.MainActor(unsafe) final public func skippableStateChanged()
-  @_Concurrency.MainActor(unsafe) final public func skipped()
 }
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class VmaxAdBillboardVideo : ObjectiveC.NSObject, Vmax.VmaxAd {
   @objc deinit
@@ -98,6 +93,8 @@ extension VmaxVideoHelper.VmaxVideoInstreamLayout {
   public func close()
   public func set(layout: Vmax.VmaxLayout)
   public func set(adClickBrowser: Vmax.AdClickBrowser)
+  public func set(adInfo: Vmax.VmaxAdInfo)
+  public func getVmaxAdInfo() -> Vmax.VmaxAdInfo?
 }
 extension VmaxVideoHelper.VmaxAdBillboardVideo : Vmax.VmaxRefreshableAd {
   public func shouldProcessRefresh() -> Swift.Bool
@@ -158,6 +155,8 @@ public protocol VmaxCompanionEventsReceiver : ObjectiveC.NSObject {
   public func close()
   public func set(layout: Vmax.VmaxLayout)
   public func set(adClickBrowser: Vmax.AdClickBrowser)
+  public func set(adInfo: Vmax.VmaxAdInfo)
+  public func getVmaxAdInfo() -> Vmax.VmaxAdInfo?
 }
 extension VmaxVideoHelper.VmaxAdInterstitialVideo : Vmax.VmaxMediaEventsDelegate {
   public func set(vmaxMediaEvents: [Vmax.VmaxMediaEvents])
@@ -187,6 +186,11 @@ extension VmaxVideoHelper.VmaxAdInterstitialVideo : Vmax.VmaxAdAssetDelegate {
   public func close()
   public func set(layout: Vmax.VmaxLayout)
   public func set(adClickBrowser: Vmax.AdClickBrowser)
+  public func set(adInfo: Vmax.VmaxAdInfo)
+  public func set(cacheMode: Vmax.VmaxCacheMode)
+  public func getVmaxAdInfo() -> Vmax.VmaxAdInfo?
+  public func handleAdClick()
+  public func cacheMediaIfNotCached()
 }
 extension VmaxVideoHelper.VmaxAdInstream : Vmax.VmaxAdAssetDelegate {
   public func onPrepared<T>(asset: Vmax.VmaxAdAssetHelper, result: T)
@@ -291,6 +295,7 @@ public protocol VmaxVpp {
   func cache(asset: VmaxVideoHelper.VmaxVPPAsset)
   func show(container: UIKit.UIView, state: VmaxVideoHelper.InitialVPPState)
   func set(layout: VmaxVideoHelper.VmaxVideoLayout)
+  func set(cacheMode: Vmax.VmaxCacheMode)
   func replay()
   func close()
   func destroy()
@@ -300,10 +305,13 @@ public protocol VmaxVpp {
   func get(adDuration mediaURL: Swift.String) -> Swift.Double
   func getOverlayView() -> UIKit.UIView?
   func update(adBadgeText: Swift.String)
+  func cacheMediaIfNotCached()
 }
 extension VmaxVideoHelper.VmaxVpp {
   public func getOverlayView() -> UIKit.UIView?
   public func update(adBadgeText: Swift.String)
+  public func set(cacheMode: Vmax.VmaxCacheMode)
+  public func cacheMediaIfNotCached()
 }
 public protocol VmaxVppDelegate : AnyObject {
   func cacheSucceeded(info: VmaxVideoHelper.VPPCachedInfo, asset: VmaxVideoHelper.VmaxVPPAsset)
@@ -322,6 +330,7 @@ public struct InitialVPPState {
 }
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class VmaxAdExternalVastNetwork : ObjectiveC.NSObject, Vmax.VmaxAd {
   @objc deinit
+  public func set(delegate: Vmax.VmaxAdDelegate)
   public func prepare(adResponse: Swift.String, delegate: Vmax.VmaxAdDelegate)
   public func render(container: UIKit.UIView)
   public static func getSignatures() -> [Swift.String]
@@ -330,6 +339,11 @@ public struct InitialVPPState {
   public func close()
   public func set(layout: Vmax.VmaxLayout)
   public func set(adClickBrowser: Vmax.AdClickBrowser)
+  public func set(cacheMode: Vmax.VmaxCacheMode)
+  public func set(adInfo: Vmax.VmaxAdInfo)
+  public func getVmaxAdInfo() -> Vmax.VmaxAdInfo?
+  public func handleAdClick()
+  public func cacheMediaIfNotCached()
 }
 extension VmaxVideoHelper.VmaxAdExternalVastNetwork : Vmax.VmaxAdAssetDelegate {
   public func onPrepared<T>(asset: Vmax.VmaxAdAssetHelper, result: T)
@@ -342,12 +356,14 @@ extension VmaxVideoHelper.VmaxAdExternalVastNetwork : Vmax.VmaxAdAssetDelegate {
 }
 extension VmaxVideoHelper.VmaxAdExternalVastNetwork : Vmax.VmaxMediaEventsDelegate {
   public func set(vmaxMediaEvents: [Vmax.VmaxMediaEvents])
+  public func update(vmaxMediaEvents: [Vmax.VmaxMediaEvents])
 }
 extension VmaxVideoHelper.VmaxAdExternalVastNetwork : Vmax.VmaxCompanionEventDelegate {
   public func set(companionEvents: Vmax.VmaxCompanionEvents)
 }
 extension VmaxVideoHelper.VmaxAdExternalVastNetwork : Vmax.VmaxViewabilityProtocol {
   public func add(viewability: Vmax.VmaxAdViewability)
+  public func update(viewability: Vmax.VmaxAdViewability)
 }
 extension VmaxVideoHelper.VmaxAdExternalVastNetwork : Vmax.VmaxInstreamAd {
   public func update(container view: UIKit.UIView)

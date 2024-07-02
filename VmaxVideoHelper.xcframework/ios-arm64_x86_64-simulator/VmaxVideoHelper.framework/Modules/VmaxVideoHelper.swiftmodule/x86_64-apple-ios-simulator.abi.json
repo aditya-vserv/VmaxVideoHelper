@@ -1754,35 +1754,6 @@
           {
             "kind": "Function",
             "name": "update",
-            "printedName": "update(state:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "MuteUnmute",
-                "printedName": "Vmax.MuteUnmute",
-                "usr": "s:4Vmax10MuteUnmuteO"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:15VmaxVideoHelper0aB14InstreamLayoutC6update5statey0A010MuteUnmuteO_tF",
-            "mangledName": "$s15VmaxVideoHelper0aB14InstreamLayoutC6update5statey0A010MuteUnmuteO_tF",
-            "moduleName": "VmaxVideoHelper",
-            "declAttributes": [
-              "Custom",
-              "Final",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "update",
             "printedName": "update(ctaText:)",
             "children": [
               {
@@ -1992,52 +1963,6 @@
             "declKind": "Func",
             "usr": "s:15VmaxVideoHelper0aB14InstreamLayoutC19getOverlayAdspotIdsSaySSGyF",
             "mangledName": "$s15VmaxVideoHelper0aB14InstreamLayoutC19getOverlayAdspotIdsSaySSGyF",
-            "moduleName": "VmaxVideoHelper",
-            "declAttributes": [
-              "Custom",
-              "Final",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "skippableStateChanged",
-            "printedName": "skippableStateChanged()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:15VmaxVideoHelper0aB14InstreamLayoutC21skippableStateChangedyyF",
-            "mangledName": "$s15VmaxVideoHelper0aB14InstreamLayoutC21skippableStateChangedyyF",
-            "moduleName": "VmaxVideoHelper",
-            "declAttributes": [
-              "Custom",
-              "Final",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "skipped",
-            "printedName": "skipped()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:15VmaxVideoHelper0aB14InstreamLayoutC7skippedyyF",
-            "mangledName": "$s15VmaxVideoHelper0aB14InstreamLayoutC7skippedyyF",
             "moduleName": "VmaxVideoHelper",
             "declAttributes": [
               "Custom",
@@ -2380,6 +2305,61 @@
             "declKind": "Func",
             "usr": "s:15VmaxVideoHelper0a11AdBillboardB0C3set14adClickBrowsery0A00dhI0O_tF",
             "mangledName": "$s15VmaxVideoHelper0a11AdBillboardB0C3set14adClickBrowsery0A00dhI0O_tF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "set",
+            "printedName": "set(adInfo:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxAdInfo",
+                "printedName": "Vmax.VmaxAdInfo",
+                "usr": "s:4Vmax0A6AdInfoC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0a11AdBillboardB0C3set6adInfoy0A00adH0C_tF",
+            "mangledName": "$s15VmaxVideoHelper0a11AdBillboardB0C3set6adInfoy0A00adH0C_tF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getVmaxAdInfo",
+            "printedName": "getVmaxAdInfo()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Vmax.VmaxAdInfo?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VmaxAdInfo",
+                    "printedName": "Vmax.VmaxAdInfo",
+                    "usr": "s:4Vmax0A6AdInfoC"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0a11AdBillboardB0C03getaD4Info0A00adG0CSgyF",
+            "mangledName": "$s15VmaxVideoHelper0a11AdBillboardB0C03getaD4Info0A00adG0CSgyF",
             "moduleName": "VmaxVideoHelper",
             "declAttributes": [
               "AccessControl"
@@ -3804,6 +3784,61 @@
           {
             "kind": "Function",
             "name": "set",
+            "printedName": "set(adInfo:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxAdInfo",
+                "printedName": "Vmax.VmaxAdInfo",
+                "usr": "s:4Vmax0A6AdInfoC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0a14AdInterstitialB0C3set6adInfoy0A00adH0C_tF",
+            "mangledName": "$s15VmaxVideoHelper0a14AdInterstitialB0C3set6adInfoy0A00adH0C_tF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getVmaxAdInfo",
+            "printedName": "getVmaxAdInfo()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Vmax.VmaxAdInfo?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VmaxAdInfo",
+                    "printedName": "Vmax.VmaxAdInfo",
+                    "usr": "s:4Vmax0A6AdInfoC"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0a14AdInterstitialB0C03getaD4Info0A00adG0CSgyF",
+            "mangledName": "$s15VmaxVideoHelper0a14AdInterstitialB0C03getaD4Info0A00adG0CSgyF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "set",
             "printedName": "set(vmaxMediaEvents:)",
             "children": [
               {
@@ -4432,6 +4467,127 @@
             "declKind": "Func",
             "usr": "s:15VmaxVideoHelper0A10AdInstreamC3set14adClickBrowsery0A00dhI0O_tF",
             "mangledName": "$s15VmaxVideoHelper0A10AdInstreamC3set14adClickBrowsery0A00dhI0O_tF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "set",
+            "printedName": "set(adInfo:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxAdInfo",
+                "printedName": "Vmax.VmaxAdInfo",
+                "usr": "s:4Vmax0A6AdInfoC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0A10AdInstreamC3set6adInfoy0A00adH0C_tF",
+            "mangledName": "$s15VmaxVideoHelper0A10AdInstreamC3set6adInfoy0A00adH0C_tF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "set",
+            "printedName": "set(cacheMode:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxCacheMode",
+                "printedName": "Vmax.VmaxCacheMode",
+                "usr": "s:4Vmax0A9CacheModeO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0A10AdInstreamC3set9cacheModey0A00a5CacheH0O_tF",
+            "mangledName": "$s15VmaxVideoHelper0A10AdInstreamC3set9cacheModey0A00a5CacheH0O_tF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getVmaxAdInfo",
+            "printedName": "getVmaxAdInfo()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Vmax.VmaxAdInfo?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VmaxAdInfo",
+                    "printedName": "Vmax.VmaxAdInfo",
+                    "usr": "s:4Vmax0A6AdInfoC"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0A10AdInstreamC03getaD4Info0A00adG0CSgyF",
+            "mangledName": "$s15VmaxVideoHelper0A10AdInstreamC03getaD4Info0A00adG0CSgyF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "handleAdClick",
+            "printedName": "handleAdClick()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0A10AdInstreamC06handleD5ClickyyF",
+            "mangledName": "$s15VmaxVideoHelper0A10AdInstreamC06handleD5ClickyyF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "cacheMediaIfNotCached",
+            "printedName": "cacheMediaIfNotCached()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0A10AdInstreamC21cacheMediaIfNotCachedyyF",
+            "mangledName": "$s15VmaxVideoHelper0A10AdInstreamC21cacheMediaIfNotCachedyyF",
             "moduleName": "VmaxVideoHelper",
             "declAttributes": [
               "AccessControl"
@@ -7136,6 +7292,33 @@
           },
           {
             "kind": "Function",
+            "name": "set",
+            "printedName": "set(cacheMode:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxCacheMode",
+                "printedName": "Vmax.VmaxCacheMode",
+                "usr": "s:4Vmax0A9CacheModeO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0A3VppP3set9cacheModey0A00a5CacheG0O_tF",
+            "mangledName": "$s15VmaxVideoHelper0A3VppP3set9cacheModey0A00a5CacheG0O_tF",
+            "moduleName": "VmaxVideoHelper",
+            "genericSig": "<τ_0_0 where τ_0_0 : VmaxVideoHelper.VmaxVpp>",
+            "sugared_genericSig": "<Self where Self : VmaxVideoHelper.VmaxVpp>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "replay",
             "printedName": "replay()",
             "children": [
@@ -7373,6 +7556,27 @@
           },
           {
             "kind": "Function",
+            "name": "cacheMediaIfNotCached",
+            "printedName": "cacheMediaIfNotCached()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0A3VppP21cacheMediaIfNotCachedyyF",
+            "mangledName": "$s15VmaxVideoHelper0A3VppP21cacheMediaIfNotCachedyyF",
+            "moduleName": "VmaxVideoHelper",
+            "genericSig": "<τ_0_0 where τ_0_0 : VmaxVideoHelper.VmaxVpp>",
+            "sugared_genericSig": "<Self where Self : VmaxVideoHelper.VmaxVpp>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "getOverlayView",
             "printedName": "getOverlayView()",
             "children": [
@@ -7420,6 +7624,52 @@
             "declKind": "Func",
             "usr": "s:15VmaxVideoHelper0A3VppPAAE6update11adBadgeTextySS_tF",
             "mangledName": "$s15VmaxVideoHelper0A3VppPAAE6update11adBadgeTextySS_tF",
+            "moduleName": "VmaxVideoHelper",
+            "genericSig": "<τ_0_0 where τ_0_0 : VmaxVideoHelper.VmaxVpp>",
+            "sugared_genericSig": "<Self where Self : VmaxVideoHelper.VmaxVpp>",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "set",
+            "printedName": "set(cacheMode:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxCacheMode",
+                "printedName": "Vmax.VmaxCacheMode",
+                "usr": "s:4Vmax0A9CacheModeO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0A3VppPAAE3set9cacheModey0A00a5CacheG0O_tF",
+            "mangledName": "$s15VmaxVideoHelper0A3VppPAAE3set9cacheModey0A00a5CacheG0O_tF",
+            "moduleName": "VmaxVideoHelper",
+            "genericSig": "<τ_0_0 where τ_0_0 : VmaxVideoHelper.VmaxVpp>",
+            "sugared_genericSig": "<Self where Self : VmaxVideoHelper.VmaxVpp>",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "cacheMediaIfNotCached",
+            "printedName": "cacheMediaIfNotCached()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0A3VppPAAE21cacheMediaIfNotCachedyyF",
+            "mangledName": "$s15VmaxVideoHelper0A3VppPAAE21cacheMediaIfNotCachedyyF",
             "moduleName": "VmaxVideoHelper",
             "genericSig": "<τ_0_0 where τ_0_0 : VmaxVideoHelper.VmaxVpp>",
             "sugared_genericSig": "<Self where Self : VmaxVideoHelper.VmaxVpp>",
@@ -7915,6 +8165,32 @@
         "children": [
           {
             "kind": "Function",
+            "name": "set",
+            "printedName": "set(delegate:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxAdDelegate",
+                "printedName": "Vmax.VmaxAdDelegate",
+                "usr": "s:4Vmax0A10AdDelegateP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0A21AdExternalVastNetworkC3set8delegatey0A00aD8Delegate_p_tF",
+            "mangledName": "$s15VmaxVideoHelper0A21AdExternalVastNetworkC3set8delegatey0A00aD8Delegate_p_tF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "prepare",
             "printedName": "prepare(adResponse:delegate:)",
             "children": [
@@ -8108,6 +8384,127 @@
             "declKind": "Func",
             "usr": "s:15VmaxVideoHelper0A21AdExternalVastNetworkC3set14adClickBrowsery0A00djK0O_tF",
             "mangledName": "$s15VmaxVideoHelper0A21AdExternalVastNetworkC3set14adClickBrowsery0A00djK0O_tF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "set",
+            "printedName": "set(cacheMode:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxCacheMode",
+                "printedName": "Vmax.VmaxCacheMode",
+                "usr": "s:4Vmax0A9CacheModeO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0A21AdExternalVastNetworkC3set9cacheModey0A00a5CacheJ0O_tF",
+            "mangledName": "$s15VmaxVideoHelper0A21AdExternalVastNetworkC3set9cacheModey0A00a5CacheJ0O_tF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "set",
+            "printedName": "set(adInfo:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxAdInfo",
+                "printedName": "Vmax.VmaxAdInfo",
+                "usr": "s:4Vmax0A6AdInfoC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0A21AdExternalVastNetworkC3set6adInfoy0A00adJ0C_tF",
+            "mangledName": "$s15VmaxVideoHelper0A21AdExternalVastNetworkC3set6adInfoy0A00adJ0C_tF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getVmaxAdInfo",
+            "printedName": "getVmaxAdInfo()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Vmax.VmaxAdInfo?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VmaxAdInfo",
+                    "printedName": "Vmax.VmaxAdInfo",
+                    "usr": "s:4Vmax0A6AdInfoC"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0A21AdExternalVastNetworkC03getaD4Info0A00adI0CSgyF",
+            "mangledName": "$s15VmaxVideoHelper0A21AdExternalVastNetworkC03getaD4Info0A00adI0CSgyF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "handleAdClick",
+            "printedName": "handleAdClick()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0A21AdExternalVastNetworkC06handleD5ClickyyF",
+            "mangledName": "$s15VmaxVideoHelper0A21AdExternalVastNetworkC06handleD5ClickyyF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "cacheMediaIfNotCached",
+            "printedName": "cacheMediaIfNotCached()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0A21AdExternalVastNetworkC21cacheMediaIfNotCachedyyF",
+            "mangledName": "$s15VmaxVideoHelper0A21AdExternalVastNetworkC21cacheMediaIfNotCachedyyF",
             "moduleName": "VmaxVideoHelper",
             "declAttributes": [
               "AccessControl"
@@ -8366,6 +8763,41 @@
           },
           {
             "kind": "Function",
+            "name": "update",
+            "printedName": "update(vmaxMediaEvents:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Vmax.VmaxMediaEvents]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VmaxMediaEvents",
+                    "printedName": "Vmax.VmaxMediaEvents",
+                    "usr": "s:4Vmax0A11MediaEventsP"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0A21AdExternalVastNetworkC6update15vmaxMediaEventsySay0A00ajK0_pG_tF",
+            "mangledName": "$s15VmaxVideoHelper0A21AdExternalVastNetworkC6update15vmaxMediaEventsySay0A00ajK0_pG_tF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "set",
             "printedName": "set(companionEvents:)",
             "children": [
@@ -8411,6 +8843,33 @@
             "declKind": "Func",
             "usr": "s:15VmaxVideoHelper0A21AdExternalVastNetworkC3add11viewabilityy0A00aD11Viewability_p_tF",
             "mangledName": "$s15VmaxVideoHelper0A21AdExternalVastNetworkC3add11viewabilityy0A00aD11Viewability_p_tF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "update",
+            "printedName": "update(viewability:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxAdViewability",
+                "printedName": "Vmax.VmaxAdViewability",
+                "usr": "s:4Vmax0A13AdViewabilityP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0A21AdExternalVastNetworkC6update11viewabilityy0A00aD11Viewability_p_tF",
+            "mangledName": "$s15VmaxVideoHelper0A21AdExternalVastNetworkC6update11viewabilityy0A00aD11Viewability_p_tF",
             "moduleName": "VmaxVideoHelper",
             "declAttributes": [
               "AccessControl"
@@ -9019,6 +9478,34 @@
       "value": "false"
     },
     {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxOutstreamLayout\/Custom\/Billboard\/VmaxVideoBillboardLayout.swift",
+      "kind": "FloatLiteral",
+      "offset": 3705,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxOutstreamLayout\/Custom\/Billboard\/VmaxVideoBillboardLayout.swift",
+      "kind": "FloatLiteral",
+      "offset": 3727,
+      "length": 3,
+      "value": "0.8"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxOutstreamLayout\/Custom\/Billboard\/VmaxVideoBillboardLayout.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3763,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxOutstreamLayout\/Custom\/Billboard\/VmaxVideoBillboardLayout.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3774,
+      "length": 1,
+      "value": "0"
+    },
+    {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxCompanionManager\/SyncCompanionEventsReceiver.swift",
       "kind": "StringLiteral",
       "offset": 175,
@@ -9028,7 +9515,7 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAdAssetHelper\/VmaxAdAssetHelperVideo.swift",
       "kind": "BooleanLiteral",
-      "offset": 782,
+      "offset": 844,
       "length": 5,
       "value": "false"
     },
@@ -9145,44 +9632,86 @@
       "value": "\"VmaxVideoHelper.VmaxVideoHelperError\""
     },
     {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
+      "kind": "IntegerLiteral",
+      "offset": 732,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
+      "kind": "BooleanLiteral",
+      "offset": 826,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
+      "kind": "FloatLiteral",
+      "offset": 3921,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
+      "kind": "FloatLiteral",
+      "offset": 3943,
+      "length": 3,
+      "value": "0.8"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3979,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3990,
+      "length": 1,
+      "value": "0"
+    },
+    {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAd\/VmaxAdBillboardVideo.swift",
       "kind": "BooleanLiteral",
-      "offset": 793,
+      "offset": 821,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAd\/VmaxAdBillboardVideo.swift",
       "kind": "BooleanLiteral",
-      "offset": 834,
+      "offset": 862,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAd\/VmaxAdBillboardVideo.swift",
       "kind": "BooleanLiteral",
-      "offset": 912,
+      "offset": 940,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAd\/VmaxAdBillboardVideo.swift",
       "kind": "BooleanLiteral",
-      "offset": 952,
+      "offset": 980,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAd\/VmaxAdBillboardVideo.swift",
       "kind": "StringLiteral",
-      "offset": 1182,
+      "offset": 1210,
       "length": 8,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAd\/VmaxAdBillboardVideo.swift",
       "kind": "StringLiteral",
-      "offset": 1189,
+      "offset": 1217,
       "length": 10,
       "value": "\"\""
     },
@@ -9245,14 +9774,21 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 1212,
+      "offset": 1260,
       "length": 4,
       "value": "\"Ad\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "BooleanLiteral",
-      "offset": 1360,
+      "offset": 1408,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1509,
       "length": 5,
       "value": "false"
     },
@@ -9266,21 +9802,21 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAdAssetHelper\/VmaxAdAssetHelperSingleInstream.swift",
       "kind": "StringLiteral",
-      "offset": 756,
+      "offset": 818,
       "length": 4,
       "value": "\"Ad\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAdAssetHelper\/VmaxAdAssetHelperSingleInstream.swift",
       "kind": "BooleanLiteral",
-      "offset": 1046,
+      "offset": 1140,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAdAssetHelper\/VmaxAdAssetHelperSingleInstream.swift",
       "kind": "BooleanLiteral",
-      "offset": 1124,
+      "offset": 1218,
       "length": 5,
       "value": "false"
     },
@@ -9327,58 +9863,86 @@
       "value": "2"
     },
     {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxOutstreamLayout\/Default\/VmaxVideoOutstreamLayout.swift",
+      "kind": "FloatLiteral",
+      "offset": 3271,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxOutstreamLayout\/Default\/VmaxVideoOutstreamLayout.swift",
+      "kind": "FloatLiteral",
+      "offset": 3293,
+      "length": 3,
+      "value": "0.8"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxOutstreamLayout\/Default\/VmaxVideoOutstreamLayout.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3329,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxOutstreamLayout\/Default\/VmaxVideoOutstreamLayout.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3340,
+      "length": 1,
+      "value": "0"
+    },
+    {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAd\/VmaxAdExternalVastNetwork.swift",
       "kind": "StringLiteral",
-      "offset": 11107,
+      "offset": 14810,
       "length": 12,
       "value": "\"ad_tag_url\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAd\/VmaxAdExternalVastNetwork.swift",
       "kind": "StringLiteral",
-      "offset": 11144,
+      "offset": 14847,
       "length": 10,
       "value": "\"adunitid\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAd\/VmaxAdExternalVastNetwork.swift",
       "kind": "StringLiteral",
-      "offset": 11179,
+      "offset": 14882,
       "length": 11,
       "value": "\"click-url\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAd\/VmaxAdExternalVastNetwork.swift",
       "kind": "StringLiteral",
-      "offset": 11217,
+      "offset": 14920,
       "length": 12,
       "value": "\"campaignid\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAd\/VmaxAdExternalVastNetwork.swift",
       "kind": "StringLiteral",
-      "offset": 11107,
+      "offset": 14810,
       "length": 12,
       "value": "\"ad_tag_url\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAd\/VmaxAdExternalVastNetwork.swift",
       "kind": "StringLiteral",
-      "offset": 11144,
+      "offset": 14847,
       "length": 10,
       "value": "\"adunitid\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAd\/VmaxAdExternalVastNetwork.swift",
       "kind": "StringLiteral",
-      "offset": 11179,
+      "offset": 14882,
       "length": 11,
       "value": "\"click-url\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAd\/VmaxAdExternalVastNetwork.swift",
       "kind": "StringLiteral",
-      "offset": 11217,
+      "offset": 14920,
       "length": 12,
       "value": "\"campaignid\""
     },
@@ -9392,42 +9956,42 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAdAssetHelper\/VmaxAdAssetHelperOutStreamVideo.swift",
       "kind": "BooleanLiteral",
-      "offset": 1057,
+      "offset": 1085,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAdAssetHelper\/VmaxAdAssetHelperOutStreamVideo.swift",
       "kind": "BooleanLiteral",
-      "offset": 1086,
+      "offset": 1114,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAdAssetHelper\/VmaxAdAssetHelperOutStreamVideo.swift",
       "kind": "BooleanLiteral",
-      "offset": 1119,
+      "offset": 1147,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAdAssetHelper\/VmaxAdAssetHelperOutStreamVideo.swift",
       "kind": "BooleanLiteral",
-      "offset": 1151,
+      "offset": 1179,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAdAssetHelper\/VmaxAdAssetHelperOutStreamVideo.swift",
       "kind": "BooleanLiteral",
-      "offset": 1185,
+      "offset": 1213,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAdAssetHelper\/VmaxAdAssetHelperOutStreamVideo.swift",
       "kind": "BooleanLiteral",
-      "offset": 1224,
+      "offset": 1252,
       "length": 5,
       "value": "false"
     },

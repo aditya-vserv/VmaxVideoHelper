@@ -350,6 +350,8 @@ SWIFT_CLASS("_TtC15VmaxVideoHelper23VmaxVideoInstreamLayout")
 
 
 
+
+
 #endif
 #if defined(__cplusplus)
 #endif

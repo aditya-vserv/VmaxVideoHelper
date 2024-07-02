@@ -350,6 +350,8 @@ SWIFT_CLASS("_TtC15VmaxVideoHelper23VmaxVideoInstreamLayout")
 
 
 
+
+
 #endif
 #if defined(__cplusplus)
 #endif
@@ -706,6 +708,8 @@ SWIFT_CLASS("_TtC15VmaxVideoHelper23VmaxVideoInstreamLayout")
 - (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder SWIFT_UNAVAILABLE;
 @end
+
+
 
 
 

@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/VmaxVideoHelper-Swift.h</key>
 		<data>
-		XJRG2DfdDF2P6h3rA52F7L4U1jQ=
+		SyX4jZQ0E6CZVGJWNMP2fsFBJoE=
 		</data>
 		<key>Headers/VmaxVideoHelper.h</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		mje5Hr+drxKjH0hJqj4Oa59k//I=
+		mF3GNG/N+UfhzVxvo2C8WI8P7f4=
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		CKygC1hxzl2DK/IfpSwsidlYowY=
+		A+t2ew1ROZ1TAadH8dRdKevZluw=
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -38,19 +38,19 @@
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		CKygC1hxzl2DK/IfpSwsidlYowY=
+		A+t2ew1ROZ1TAadH8dRdKevZluw=
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		j+lQUd3MyubD/Pr6XKahRiO/AqU=
+		/ors56LWxZMGpd8pD/OLHOLsrwU=
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		mje5Hr+drxKjH0hJqj4Oa59k//I=
+		mF3GNG/N+UfhzVxvo2C8WI8P7f4=
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		V3XSaqdw6C8gfOoXH3w7lbgv2KY=
+		GBwabNbAXLc4B0SDtrk6M55kiRk=
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		V3XSaqdw6C8gfOoXH3w7lbgv2KY=
+		GBwabNbAXLc4B0SDtrk6M55kiRk=
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Cstd0C4IGHGdABbK/KD+BGoUKhM=
+		8XPdILEDoNVdif/KNo3wSfgONQI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -74,11 +74,11 @@
 		</data>
 		<key>VmaxVideoBillboardLayout.nib</key>
 		<data>
-		aYjXejZsjoiTEdVkgvJ+Jn/WNUU=
+		nfFqber08ea0+cStUVCsqrWKkuw=
 		</data>
 		<key>VmaxVideoInstreamLayout.nib</key>
 		<data>
-		gzOUnmskTfx4zNuBk6WbwMFIW24=
+		n8o31rwTZX3IUUY4JEEpFWuX1D8=
 		</data>
 		<key>VmaxVideoInterstitialLayout.nib</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>VmaxVideoOutstreamLayout.nib</key>
 		<data>
-		vp+LFn800gR1K2lbOK9PYlBmTBE=
+		I34q9ejfVIyM83cQpOFm/qIC2Y8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -109,7 +109,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BBwh2Pwcu1ZK6qegL8GyeAfaCyuJDSMnclmKIbh41P4=
+			ItMovthMKLMRyYIPY7W1KNG2m2nZoTNrmUcWfcD2oNI=
 			</data>
 		</dict>
 		<key>Headers/VmaxVideoHelper.h</key>
@@ -123,14 +123,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6MNydyGbX5UKwpRarrzh4UnXDKgPEk9kbnbfcYxFSGY=
+			n0qICV5Eax/8qrodvV7GcOECxfOTzx5JdM3I9BsLYDc=
 			</data>
 		</dict>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OOn55JkkmE1n7+s/BbVAgMvyltOz2aILA2RIXXGm140=
+			x2jYkt2ZbnVrMaohWs4sq4s1tct/FV8ExrWmE1K+ZCs=
 			</data>
 		</dict>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -144,28 +144,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OOn55JkkmE1n7+s/BbVAgMvyltOz2aILA2RIXXGm140=
+			x2jYkt2ZbnVrMaohWs4sq4s1tct/FV8ExrWmE1K+ZCs=
 			</data>
 		</dict>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TySVx41n7WIoTske++AN+eS0ZhN1RkNDHmxYp96z6Ww=
+			Y/r8LGRwiJfAdCzj0veyRzZJC7G6oJOvdPXI09W7tq4=
 			</data>
 		</dict>
 		<key>Modules/VmaxVideoHelper.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6MNydyGbX5UKwpRarrzh4UnXDKgPEk9kbnbfcYxFSGY=
+			n0qICV5Eax/8qrodvV7GcOECxfOTzx5JdM3I9BsLYDc=
 			</data>
 		</dict>
 		<key>Modules/VmaxVideoHelper.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aXtuj5i3o6G6ACy9CGpR+nThsRuyx+9eS16UycGWbLQ=
+			kKCDx0amn/KPSchQS4R3Sey9Vx9xgacROl4p2TKYcVA=
 			</data>
 		</dict>
 		<key>Modules/VmaxVideoHelper.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -179,14 +179,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aXtuj5i3o6G6ACy9CGpR+nThsRuyx+9eS16UycGWbLQ=
+			kKCDx0amn/KPSchQS4R3Sey9Vx9xgacROl4p2TKYcVA=
 			</data>
 		</dict>
 		<key>Modules/VmaxVideoHelper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tCy8HZ4frVtMjwQv6do7f8Puq4aYXW8H5x6+rpNCv6U=
+			m0u303xzox5fQuy3hyuHLwTd+UNeIFr2KDeXeJggXBQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -207,14 +207,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z8U2SdAQk/JPOfP5UWdPuZlOzKOXDlB8TtbRgd+d/4Y=
+			JcfzHj1UG2tviOP+kvreZsFCPHai5lp31dB7GAHY7GU=
 			</data>
 		</dict>
 		<key>VmaxVideoInstreamLayout.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WLYG2rQYOK2ucXVdt33Knno+Ze/srxZwfIvJG9jfrqU=
+			kVcg89rGzYvszr68v57YF4tcAk23JvyG7btq8fLGjgE=
 			</data>
 		</dict>
 		<key>VmaxVideoInterstitialLayout.nib</key>
@@ -228,7 +228,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sI22L3cm245+yjFqtGZTnQSyKEN0Yx3a99dp0Sk4Sdw=
+			5seCfjF6w73GdxTUaxBrvFXpaNu4/jXxSW4aRppSnZc=
 			</data>
 		</dict>
 	</dict>
