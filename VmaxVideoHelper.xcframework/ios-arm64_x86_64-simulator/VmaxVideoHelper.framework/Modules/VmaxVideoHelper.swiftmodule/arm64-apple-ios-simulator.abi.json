@@ -10683,232 +10683,225 @@
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
-      "kind": "BooleanLiteral",
-      "offset": 8060,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "IntegerLiteral",
-      "offset": 8108,
+      "offset": 8138,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "FloatLiteral",
-      "offset": 8170,
+      "offset": 8200,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "IntegerLiteral",
-      "offset": 8265,
+      "offset": 8295,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "StringLiteral",
-      "offset": 8439,
+      "offset": 8469,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "BooleanLiteral",
-      "offset": 9658,
+      "offset": 9688,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "StringLiteral",
-      "offset": 10423,
+      "offset": 10453,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "IntegerLiteral",
-      "offset": 10450,
+      "offset": 10480,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "IntegerLiteral",
-      "offset": 10493,
+      "offset": 10523,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "IntegerLiteral",
-      "offset": 10536,
+      "offset": 10566,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "IntegerLiteral",
-      "offset": 10565,
+      "offset": 10595,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "StringLiteral",
-      "offset": 10601,
+      "offset": 10631,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "StringLiteral",
-      "offset": 10612,
+      "offset": 10642,
       "length": 1,
       "value": "\":0\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "StringLiteral",
-      "offset": 10624,
+      "offset": 10654,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "StringLiteral",
-      "offset": 10678,
+      "offset": 10708,
       "length": 23,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "StringLiteral",
-      "offset": 10689,
+      "offset": 10719,
       "length": 1,
       "value": "\":\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "StringLiteral",
-      "offset": 10700,
+      "offset": 10730,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "IntegerLiteral",
-      "offset": 11021,
+      "offset": 11051,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "BooleanLiteral",
-      "offset": 11065,
+      "offset": 11095,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "BooleanLiteral",
-      "offset": 11160,
+      "offset": 11190,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "BooleanLiteral",
-      "offset": 11222,
+      "offset": 11252,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "StringLiteral",
-      "offset": 11266,
+      "offset": 11296,
       "length": 15,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "StringLiteral",
-      "offset": 11280,
+      "offset": 11310,
       "length": 16,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "IntegerLiteral",
-      "offset": 11386,
+      "offset": 11416,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "IntegerLiteral",
-      "offset": 11419,
+      "offset": 11449,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "IntegerLiteral",
-      "offset": 11472,
+      "offset": 11502,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "IntegerLiteral",
-      "offset": 11520,
+      "offset": 11550,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "BooleanLiteral",
-      "offset": 11857,
+      "offset": 11887,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "BooleanLiteral",
-      "offset": 11915,
+      "offset": 11945,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "StringLiteral",
-      "offset": 11954,
+      "offset": 11984,
       "length": 10,
       "value": "\"  Skip  \""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "FloatLiteral",
-      "offset": 12203,
+      "offset": 12233,
       "length": 3,
       "value": "3.0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "BooleanLiteral",
-      "offset": 12500,
+      "offset": 12530,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxInstreamLayout\/VmaxVideoInstreamLayout.swift",
       "kind": "BooleanLiteral",
-      "offset": 12543,
+      "offset": 12573,
       "length": 5,
       "value": "false"
     },
@@ -12141,398 +12134,398 @@
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "IntegerLiteral",
       "offset": 4852,
-      "length": 1,
-      "value": "0"
+      "length": 2,
+      "value": "-1"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "IntegerLiteral",
-      "offset": 4920,
+      "offset": 4921,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 5200,
+      "offset": 5201,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 5294,
+      "offset": 5295,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 5303,
+      "offset": 5304,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 5834,
+      "offset": 5835,
       "length": 46,
       "value": "\"AVPlayerLayer failed with an error: \""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 5879,
+      "offset": 5880,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "BooleanLiteral",
-      "offset": 6429,
+      "offset": 6430,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 7082,
+      "offset": 7083,
       "length": 10,
       "value": "\"duration\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "IntegerLiteral",
-      "offset": 7113,
+      "offset": 7114,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 7138,
+      "offset": 7139,
       "length": 8,
       "value": "\"volume\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "IntegerLiteral",
-      "offset": 7178,
+      "offset": 7179,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "FloatLiteral",
-      "offset": 7182,
+      "offset": 7183,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 7618,
+      "offset": 7619,
       "length": 36,
       "value": "\"New cacheMode value - \""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 7653,
+      "offset": 7654,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 7749,
+      "offset": 7750,
       "length": 15,
       "value": "\"player is nil\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "BooleanLiteral",
-      "offset": 7832,
+      "offset": 7833,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 8381,
+      "offset": 8382,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 8565,
+      "offset": 8566,
       "length": 128,
       "value": "\"the last adInteraction was by the user where the adState was pause & it can't overwrite by \""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 8692,
+      "offset": 8693,
       "length": 9,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 9264,
+      "offset": 9265,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "IntegerLiteral",
-      "offset": 9503,
+      "offset": 9504,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 9815,
+      "offset": 9816,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 10079,
+      "offset": 10080,
       "length": 55,
       "value": "\"Can't cache the media because the avPlayer is not nil\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 10449,
+      "offset": 10450,
       "length": 27,
       "value": "\"media is finished playing\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 10611,
+      "offset": 10612,
       "length": 15,
       "value": "\"player is nil\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 11152,
+      "offset": 11153,
       "length": 15,
       "value": "\"player is nil\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "BooleanLiteral",
-      "offset": 11283,
+      "offset": 11284,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "BooleanLiteral",
-      "offset": 11332,
+      "offset": 11333,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "BooleanLiteral",
-      "offset": 11522,
+      "offset": 11523,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "BooleanLiteral",
-      "offset": 11572,
+      "offset": 11573,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 11878,
+      "offset": 11879,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 11887,
+      "offset": 11888,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 12756,
+      "offset": 12757,
       "length": 29,
       "value": "\"AVPlayerItem.status unknown\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 12838,
+      "offset": 12839,
       "length": 33,
       "value": "\"AVPlayerItem.status readyToPlay\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 13062,
+      "offset": 13063,
       "length": 29,
       "value": "\"AVPlayerItem.status failed \""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 13406,
+      "offset": 13407,
       "length": 29,
       "value": "\"AVPlayerItem.status default\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 13577,
+      "offset": 13578,
       "length": 38,
       "value": "\"AVPlayer currentItem is empty or nil\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 13658,
+      "offset": 13659,
       "length": 51,
       "value": "\"AVPlayerItemDidPlayToEndTime NSNotification added\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "FloatLiteral",
-      "offset": 14034,
+      "offset": 14035,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "BooleanLiteral",
-      "offset": 14229,
+      "offset": 14230,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "FloatLiteral",
-      "offset": 14723,
+      "offset": 14724,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "FloatLiteral",
-      "offset": 15130,
+      "offset": 15131,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "IntegerLiteral",
-      "offset": 15195,
+      "offset": 15196,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "IntegerLiteral",
-      "offset": 15227,
+      "offset": 15228,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 15292,
+      "offset": 15293,
       "length": 40,
       "value": "\"firstQuartile percentage \""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 15331,
+      "offset": 15332,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "IntegerLiteral",
-      "offset": 15434,
+      "offset": 15435,
       "length": 2,
       "value": "55"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "IntegerLiteral",
-      "offset": 15454,
+      "offset": 15455,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 15514,
+      "offset": 15515,
       "length": 35,
       "value": "\"midpoint percentage \""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 15548,
+      "offset": 15549,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "IntegerLiteral",
-      "offset": 15646,
+      "offset": 15647,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "IntegerLiteral",
-      "offset": 15666,
+      "offset": 15667,
       "length": 2,
       "value": "75"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 15731,
+      "offset": 15732,
       "length": 40,
       "value": "\"thridQuartile percentage \""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 15770,
+      "offset": 15771,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 16269,
+      "offset": 16270,
       "length": 11,
       "value": "\"completed\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "BooleanLiteral",
-      "offset": 16311,
+      "offset": 16312,
       "length": 4,
       "value": "true"
     },
@@ -12546,91 +12539,91 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 19536,
+      "offset": 19537,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 19664,
+      "offset": 19665,
       "length": 22,
       "value": "\"state \""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 19685,
+      "offset": 19686,
       "length": 9,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 20026,
+      "offset": 20027,
       "length": 21,
       "value": "\"state \""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 20046,
+      "offset": 20047,
       "length": 9,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 20299,
+      "offset": 20300,
       "length": 25,
       "value": "\"state \""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 20323,
+      "offset": 20324,
       "length": 9,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 20510,
+      "offset": 20511,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 20750,
+      "offset": 20751,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 20995,
+      "offset": 20996,
       "length": 31,
       "value": "\"avPlayerLayer is empty or nil\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 21263,
+      "offset": 21264,
       "length": 49,
       "value": "\"unsupported orientation \""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 21311,
+      "offset": 21312,
       "length": 9,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
       "kind": "StringLiteral",
-      "offset": 21551,
+      "offset": 21552,
       "length": 17,
       "value": "\"unknown default\""
     },
