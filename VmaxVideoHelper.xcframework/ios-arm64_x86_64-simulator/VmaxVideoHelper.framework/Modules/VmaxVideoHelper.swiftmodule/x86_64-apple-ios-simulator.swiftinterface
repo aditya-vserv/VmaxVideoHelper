@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
-// swift-module-flags: -target x86_64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name VmaxVideoHelper
-// swift-module-flags-ignorable: -enable-bare-slash-regex
+// swift-compiler-version: Apple Swift version 6.0 effective-5.10 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)
+// swift-module-flags: -target x86_64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name VmaxVideoHelper
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
 import AVKit
 import DeveloperToolsSupport
 import Foundation
@@ -66,31 +66,32 @@ final public class VmaxVideoHelperError : Vmax.VmaxError {
   public init(code: VmaxVideoHelper.VmaxVideoHelperError.Codes, errorDescription: Swift.String, recoveryMessage: Swift.String)
   @objc deinit
 }
-@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) final public class VmaxVideoInstreamLayout : UIKit.UIView {
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @_Concurrency.MainActor @preconcurrency final public class VmaxVideoInstreamLayout : UIKit.UIView {
   @objc deinit
 }
 extension VmaxVideoHelper.VmaxVideoInstreamLayout : VmaxVideoHelper.VmaxVideoLayout {
-  @_Concurrency.MainActor(unsafe) final public func set(delegate: any VmaxVideoHelper.VmaxVideoLayoutDelegate)
-  @_Concurrency.MainActor(unsafe) final public func setUpInitialState()
-  @_Concurrency.MainActor(unsafe) final public func getNibName() -> Swift.String
-  @_Concurrency.MainActor(unsafe) final public func getParentContainer() -> UIKit.UIView?
-  @_Concurrency.MainActor(unsafe) final public func getOverlayContainer() -> UIKit.UIView?
-  @_Concurrency.MainActor(unsafe) final public func update(currentAdDuration: Swift.Int)
-  @_Concurrency.MainActor(unsafe) final public func update(totalAdDuration: Swift.Int)
-  @_Concurrency.MainActor(unsafe) final public func update(state: Vmax.PauseResume)
-  @_Concurrency.MainActor(unsafe) final public func update(ctaText: Swift.String)
-  @_Concurrency.MainActor(unsafe) final public func update(skipState: Vmax.VmaxSkipState)
-  @_Concurrency.MainActor(unsafe) final public func update(adText: Swift.String)
-  @_Concurrency.MainActor(unsafe) final public func getFriendlyObstructions() -> [UIKit.UIView]?
-  @_Concurrency.MainActor(unsafe) final public func isFullScreen() -> Swift.Bool
-  @_Concurrency.MainActor(unsafe) final public func setOverlayAdspotIds(adSpots: [Swift.String])
-  @_Concurrency.MainActor(unsafe) final public func getOverlayAdspotIds() -> [Swift.String]
+  @_Concurrency.MainActor @preconcurrency final public func set(delegate: any VmaxVideoHelper.VmaxVideoLayoutDelegate)
+  @_Concurrency.MainActor @preconcurrency final public func setUpInitialState()
+  @_Concurrency.MainActor @preconcurrency final public func getNibName() -> Swift.String
+  @_Concurrency.MainActor @preconcurrency final public func getParentContainer() -> UIKit.UIView?
+  @_Concurrency.MainActor @preconcurrency final public func getOverlayContainer() -> UIKit.UIView?
+  @_Concurrency.MainActor @preconcurrency final public func update(currentAdDuration: Swift.Int)
+  @_Concurrency.MainActor @preconcurrency final public func update(totalAdDuration: Swift.Int)
+  @_Concurrency.MainActor @preconcurrency final public func update(state: Vmax.PauseResume)
+  @_Concurrency.MainActor @preconcurrency final public func update(ctaText: Swift.String)
+  @_Concurrency.MainActor @preconcurrency final public func update(skipState: Vmax.VmaxSkipState)
+  @_Concurrency.MainActor @preconcurrency final public func update(adText: Swift.String)
+  @_Concurrency.MainActor @preconcurrency final public func getFriendlyObstructions() -> [UIKit.UIView]?
+  @_Concurrency.MainActor @preconcurrency final public func isFullScreen() -> Swift.Bool
+  @_Concurrency.MainActor @preconcurrency final public func setOverlayAdspotIds(adSpots: [Swift.String])
+  @_Concurrency.MainActor @preconcurrency final public func getOverlayAdspotIds() -> [Swift.String]
 }
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class VmaxAdBillboardVideo : ObjectiveC.NSObject, Vmax.VmaxAd {
   @objc deinit
   public func prepare(adResponse: Swift.String, delegate: any Vmax.VmaxAdDelegate)
   public func render(container: UIKit.UIView)
   public static func getSignatures() -> [Swift.String]
+  public static func getRegexPatternSignatures() -> [Swift.String]
   public func pause()
   public func resume()
   public func close()
@@ -184,6 +185,7 @@ extension VmaxVideoHelper.VmaxAdInterstitialVideo : Vmax.VmaxAdAssetDelegate {
   public func prepare(adResponse: Swift.String, delegate: any Vmax.VmaxAdDelegate)
   public func render(container: UIKit.UIView)
   public static func getSignatures() -> [Swift.String]
+  public static func getRegexPatternSignatures() -> [Swift.String]
   public static func addCustomSignature(_ customSignature: Swift.String)
   public func pause()
   public func resume()

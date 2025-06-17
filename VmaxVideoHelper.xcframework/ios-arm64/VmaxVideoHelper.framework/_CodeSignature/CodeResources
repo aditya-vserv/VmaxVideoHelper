@@ -10,11 +10,11 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		HAa6hatLfW6TrZ2KZQgjRkIkWj4=
+		uczw8v0+yv2ayMj7iDBwNoXm/DA=
 		</data>
 		<key>Headers/VmaxVideoHelper-Swift.h</key>
 		<data>
-		rRf13WtkISL2HyR28CkY293jiIo=
+		dmKWwf+1312G9SSskj+MwJIiclg=
 		</data>
 		<key>Headers/VmaxVideoHelper.h</key>
 		<data>
@@ -22,27 +22,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		5WwnPTiI1sxecFBXt6o2VfmP8pM=
+		7TABhCWTgiW8NY8r+lpSmSOtQ7M=
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		MKumaQ45avLJmTXbnyW4l0klrzE=
+		mL+gYRjANPX+a7bS52FPPIU1WZc=
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		nxDq20205PN7Sk27Ymvsk3J6zfo=
+		OuatY2m6igZ4MT+vEbgCfL3SfoU=
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		HDKQlxtNADauQoJ+8PzXDJX9A0Q=
+		4doLNSWZNNf74ikxmhNsfbIGiiI=
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		nxDq20205PN7Sk27Ymvsk3J6zfo=
+		OuatY2m6igZ4MT+vEbgCfL3SfoU=
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		jTNlSwvWZVLd9TY8irKhlmQSYsU=
+		9+NAlB91Uffy+imtwz0yelbheWs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -82,14 +82,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2oxUYSLbyw+LhC6h1JMXI3SGzZiD+IEo6TZzr37LN6s=
+			4WoGPOkouXiEkIoFdwYFZvGlHNRlGAxqFjkCSS95ksw=
 			</data>
 		</dict>
 		<key>Headers/VmaxVideoHelper-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pytg91x7+y9DSlHZs5djYEfOMbtEY9LPzMC5ZR0k7Dk=
+			em+wrikpiY4kqNprm3HOy2CC4qGBG9Umr/KMCBRlHnU=
 			</data>
 		</dict>
 		<key>Headers/VmaxVideoHelper.h</key>
@@ -103,35 +103,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bIVBfjeKUpZ1yErXzkSouxEUZSp2T+hpg9Qo3l8mS1U=
+			DH55S+bEHYUSly8mySJLsMCIgxxAavovOuYV4tlPdVc=
 			</data>
 		</dict>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ViB+J3nnoE10fPDt7bFLMd82my5BOpWhYMPCDyBuSrE=
+			XPsZMIsqvJw8fYyi4nUHRKXr3J5G24mqmS7J10Q34pE=
 			</data>
 		</dict>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iFB34VK9QEtjkM5HqoJFFknpLDsGQmCLnmV/cj9o2Mk=
+			WCzeulVyRTrjYsp60Yz5m4tjPsHkeaIT+0qK+bL7hqQ=
 			</data>
 		</dict>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ViB+J3nnoE10fPDt7bFLMd82my5BOpWhYMPCDyBuSrE=
+			XPsZMIsqvJw8fYyi4nUHRKXr3J5G24mqmS7J10Q34pE=
 			</data>
 		</dict>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vj10z73elJT6HnmCaUpiJBFAZ2ptQyWaY32dfnAxLTk=
+			ICHoZPeIVX/wS7sFp9PzC8vbbqy7JYHnmNEHPc4EsxA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
