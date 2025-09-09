@@ -2074,6 +2074,31 @@
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getAdLayoutSize",
+            "printedName": "getAdLayoutSize()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGSize",
+                "printedName": "CoreFoundation.CGSize",
+                "usr": "c:@S@CGSize"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0aB14InstreamLayoutC05getAdE4SizeSo6CGSizeVyF",
+            "mangledName": "$s15VmaxVideoHelper0aB14InstreamLayoutC05getAdE4SizeSo6CGSizeVyF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
@@ -5784,6 +5809,31 @@
             "declKind": "Func",
             "usr": "s:15VmaxVideoHelper0aB6LayoutP19getOverlayAdspotIdsSaySSGyF",
             "mangledName": "$s15VmaxVideoHelper0aB6LayoutP19getOverlayAdspotIdsSaySSGyF",
+            "moduleName": "VmaxVideoHelper",
+            "genericSig": "<τ_0_0 where τ_0_0 : VmaxVideoHelper.VmaxVideoLayout>",
+            "sugared_genericSig": "<Self where Self : VmaxVideoHelper.VmaxVideoLayout>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getAdLayoutSize",
+            "printedName": "getAdLayoutSize()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGSize",
+                "printedName": "CoreFoundation.CGSize",
+                "usr": "c:@S@CGSize"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0aB6LayoutP05getAdD4SizeSo6CGSizeVyF",
+            "mangledName": "$s15VmaxVideoHelper0aB6LayoutP05getAdD4SizeSo6CGSizeVyF",
             "moduleName": "VmaxVideoHelper",
             "genericSig": "<τ_0_0 where τ_0_0 : VmaxVideoHelper.VmaxVideoLayout>",
             "sugared_genericSig": "<Self where Self : VmaxVideoHelper.VmaxVideoLayout>",
@@ -9961,28 +10011,28 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxOutstreamLayout\/Custom\/Billboard\/VmaxVideoBillboardLayout.swift",
       "kind": "FloatLiteral",
-      "offset": 3705,
+      "offset": 3722,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxOutstreamLayout\/Custom\/Billboard\/VmaxVideoBillboardLayout.swift",
       "kind": "FloatLiteral",
-      "offset": 3727,
+      "offset": 3744,
       "length": 3,
       "value": "0.8"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxOutstreamLayout\/Custom\/Billboard\/VmaxVideoBillboardLayout.swift",
       "kind": "IntegerLiteral",
-      "offset": 3763,
+      "offset": 3780,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/Layout\/VmaxOutstreamLayout\/Custom\/Billboard\/VmaxVideoBillboardLayout.swift",
       "kind": "IntegerLiteral",
-      "offset": 3774,
+      "offset": 3791,
       "length": 1,
       "value": "0"
     },

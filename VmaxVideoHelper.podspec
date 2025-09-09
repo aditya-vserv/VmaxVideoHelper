@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name = "VmaxVideoHelper"
-  spec.version = "1.0.9"
+  spec.version = "1.0.11"
   spec.summary = "VmaxVideoHelper allows the publishers to display video ads."
   spec.description = "VmaxVideoHelper allows the publishers to display Instream, Outstream, Interstitial & External Vast Network Video Ads."
   spec.homepage = "https://www.vmax.com"

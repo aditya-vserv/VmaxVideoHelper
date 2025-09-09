@@ -26,23 +26,23 @@
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		mL+gYRjANPX+a7bS52FPPIU1WZc=
+		XgfcGTf9wasicdVtsEBwVhAeD4A=
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		OuatY2m6igZ4MT+vEbgCfL3SfoU=
+		Pw/s25Yt5LHLkDlIKztXfDz9xF8=
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		4doLNSWZNNf74ikxmhNsfbIGiiI=
+		k//IjOW0hll4yzZ/RiZ6R0bvrZI=
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		OuatY2m6igZ4MT+vEbgCfL3SfoU=
+		Pw/s25Yt5LHLkDlIKztXfDz9xF8=
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		9+NAlB91Uffy+imtwz0yelbheWs=
+		2MQUzvXe5Dolm4Cuh2jk7C/+Jv8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>VmaxVideoBillboardLayout.nib</key>
 		<data>
-		53vSXpyWTlcOx4QxEujQGPYtlng=
+		7Zep6ykl1rpUb/wg2CxzcXVgDkY=
 		</data>
 		<key>VmaxVideoInstreamLayout.nib</key>
 		<data>
@@ -103,35 +103,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DH55S+bEHYUSly8mySJLsMCIgxxAavovOuYV4tlPdVc=
+			4Iiw7oLmmaijuU5KCfBN2dKQdbUxdKPrQZx1ck1EqgQ=
 			</data>
 		</dict>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XPsZMIsqvJw8fYyi4nUHRKXr3J5G24mqmS7J10Q34pE=
+			X9ANBc2aYK+kL5prbEAhZUmzej41IvgUH9G7ZgYJcck=
 			</data>
 		</dict>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WCzeulVyRTrjYsp60Yz5m4tjPsHkeaIT+0qK+bL7hqQ=
+			Z+duF+TYYuzUte6oJDfTpGl1kt+gjMdOHx5H8t3B8mo=
 			</data>
 		</dict>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XPsZMIsqvJw8fYyi4nUHRKXr3J5G24mqmS7J10Q34pE=
+			X9ANBc2aYK+kL5prbEAhZUmzej41IvgUH9G7ZgYJcck=
 			</data>
 		</dict>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ICHoZPeIVX/wS7sFp9PzC8vbbqy7JYHnmNEHPc4EsxA=
+			42Wf14ifskTuus/h4NkMcqybWNe+mt1Z2gkfOWENV5o=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -152,7 +152,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w6TusT9A/UaC0bzasE9SjfeI/nhmqH+1qhmFoTjCYlQ=
+			y43ZuBVfSq/KFbxZGfTLaHGkKTMJxp0NmrtblcHwpMw=
 			</data>
 		</dict>
 		<key>VmaxVideoInstreamLayout.nib</key>

@@ -85,6 +85,7 @@ extension VmaxVideoHelper.VmaxVideoInstreamLayout : VmaxVideoHelper.VmaxVideoLay
   @_Concurrency.MainActor @preconcurrency final public func isFullScreen() -> Swift.Bool
   @_Concurrency.MainActor @preconcurrency final public func setOverlayAdspotIds(adSpots: [Swift.String])
   @_Concurrency.MainActor @preconcurrency final public func getOverlayAdspotIds() -> [Swift.String]
+  @_Concurrency.MainActor @preconcurrency final public func getAdLayoutSize() -> CoreFoundation.CGSize
 }
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class VmaxAdBillboardVideo : ObjectiveC.NSObject, Vmax.VmaxAd {
   @objc deinit
@@ -234,6 +235,7 @@ public protocol VmaxVideoLayout : Vmax.VmaxLayout {
   func set(delegate: any VmaxVideoHelper.VmaxVideoLayoutDelegate)
   func setOverlayAdspotIds(adSpots: [Swift.String])
   func getOverlayAdspotIds() -> [Swift.String]
+  func getAdLayoutSize() -> CoreFoundation.CGSize
 }
 extension VmaxVideoHelper.VmaxVideoLayout {
   public func getOverlayContainer() -> UIKit.UIView?
