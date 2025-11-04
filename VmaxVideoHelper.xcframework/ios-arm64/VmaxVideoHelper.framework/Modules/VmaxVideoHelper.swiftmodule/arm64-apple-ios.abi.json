@@ -10240,6 +10240,13 @@
       "value": "false"
     },
     {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxVideoPlayerPlugin\/VmaxBasicVpp.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1536,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAdAssetHelper\/VmaxAdAssetHelperSingleInstream.swift",
       "kind": "StringLiteral",
       "offset": 818,

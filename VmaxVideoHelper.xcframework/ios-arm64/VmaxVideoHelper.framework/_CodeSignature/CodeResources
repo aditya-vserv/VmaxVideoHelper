@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		XgfcGTf9wasicdVtsEBwVhAeD4A=
+		shKiCnzgvTWwwCoOOx3rnC1B7Po=
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		2MQUzvXe5Dolm4Cuh2jk7C/+Jv8=
+		axZStB0tmzZOdrL8peWH99WmLa0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -103,7 +103,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4Iiw7oLmmaijuU5KCfBN2dKQdbUxdKPrQZx1ck1EqgQ=
+			LueoBE+3GdJliUX/sUD8qnAZ7oNcLlR4nP3/QCLnj/g=
 			</data>
 		</dict>
 		<key>Modules/VmaxVideoHelper.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -131,7 +131,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			42Wf14ifskTuus/h4NkMcqybWNe+mt1Z2gkfOWENV5o=
+			5yHONBubcQinwm3wAXzxZKxT9z/z5YjGl2FZFC1JBZU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
