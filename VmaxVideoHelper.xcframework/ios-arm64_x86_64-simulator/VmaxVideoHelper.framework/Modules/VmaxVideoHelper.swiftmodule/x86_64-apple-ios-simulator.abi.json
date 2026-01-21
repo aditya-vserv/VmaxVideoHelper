@@ -2794,6 +2794,60 @@
           },
           {
             "kind": "Function",
+            "name": "onAdMuted",
+            "printedName": "onAdMuted(asset:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxAdAssetHelper",
+                "printedName": "any Vmax.VmaxAdAssetHelper",
+                "usr": "s:4Vmax0A13AdAssetHelperP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0a11AdBillboardB0C02onD5Muted5assety0A00ad5AssetC0_p_tF",
+            "mangledName": "$s15VmaxVideoHelper0a11AdBillboardB0C02onD5Muted5assety0A00ad5AssetC0_p_tF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onAdUnmuted",
+            "printedName": "onAdUnmuted(asset:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxAdAssetHelper",
+                "printedName": "any Vmax.VmaxAdAssetHelper",
+                "usr": "s:4Vmax0A13AdAssetHelperP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0a11AdBillboardB0C02onD7Unmuted5assety0A00ad5AssetC0_p_tF",
+            "mangledName": "$s15VmaxVideoHelper0a11AdBillboardB0C02onD7Unmuted5assety0A00ad5AssetC0_p_tF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "onClosed",
             "printedName": "onClosed(asset:)",
             "children": [
@@ -3071,6 +3125,312 @@
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "isCardActive",
+            "printedName": "isCardActive()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0a11AdBillboardB0C12isCardActiveSbyF",
+            "mangledName": "$s15VmaxVideoHelper0a11AdBillboardB0C12isCardActiveSbyF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "swipeMode",
+            "printedName": "swipeMode()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxCarouselSwipeMode",
+                "printedName": "Vmax.VmaxCarouselSwipeMode",
+                "usr": "s:4Vmax0A17CarouselSwipeModeO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0a11AdBillboardB0C9swipeMode0A00a13CarouselSwipeG0OyF",
+            "mangledName": "$s15VmaxVideoHelper0a11AdBillboardB0C9swipeMode0A00a13CarouselSwipeG0OyF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "isAdLoaded",
+            "printedName": "isAdLoaded()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0a11AdBillboardB0C02isD6LoadedSbyF",
+            "mangledName": "$s15VmaxVideoHelper0a11AdBillboardB0C02isD6LoadedSbyF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getAdWidth",
+            "printedName": "getAdWidth()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0a11AdBillboardB0C03getD5WidthSiyF",
+            "mangledName": "$s15VmaxVideoHelper0a11AdBillboardB0C03getD5WidthSiyF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getAdHeight",
+            "printedName": "getAdHeight()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0a11AdBillboardB0C03getD6HeightSiyF",
+            "mangledName": "$s15VmaxVideoHelper0a11AdBillboardB0C03getD6HeightSiyF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setAdCompletionListener",
+            "printedName": "setAdCompletionListener(adCompletionListener:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxCarouselAdCompletionListener",
+                "printedName": "any Vmax.VmaxCarouselAdCompletionListener",
+                "usr": "s:4Vmax0A28CarouselAdCompletionListenerP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0a11AdBillboardB0C03setD18CompletionListener02adgH0y0A00a8CarouseldgH0_p_tF",
+            "mangledName": "$s15VmaxVideoHelper0a11AdBillboardB0C03setD18CompletionListener02adgH0y0A00a8CarouseldgH0_p_tF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setAdFocus",
+            "printedName": "setAdFocus()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0a11AdBillboardB0C03setD5FocusyyF",
+            "mangledName": "$s15VmaxVideoHelper0a11AdBillboardB0C03setD5FocusyyF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setAdOutOfFocus",
+            "printedName": "setAdOutOfFocus()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0a11AdBillboardB0C03setD10OutOfFocusyyF",
+            "mangledName": "$s15VmaxVideoHelper0a11AdBillboardB0C03setD10OutOfFocusyyF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setAdIsDisplayedInCarousel",
+            "printedName": "setAdIsDisplayedInCarousel(flag:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0a11AdBillboardB0C03setD21IsDisplayedInCarousel4flagySb_tF",
+            "mangledName": "$s15VmaxVideoHelper0a11AdBillboardB0C03setD21IsDisplayedInCarousel4flagySb_tF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onAdLoaded",
+            "printedName": "onAdLoaded()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0a11AdBillboardB0C02onD6LoadedyyF",
+            "mangledName": "$s15VmaxVideoHelper0a11AdBillboardB0C02onD6LoadedyyF",
+            "moduleName": "VmaxVideoHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onError",
+            "printedName": "onError(info:error:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "τ_0_0?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxError",
+                "printedName": "Vmax.VmaxError",
+                "usr": "s:4Vmax0A5ErrorC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0a11AdBillboardB0C7onError4info5erroryxSg_0A00aG0CtlF",
+            "mangledName": "$s15VmaxVideoHelper0a11AdBillboardB0C7onError4info5erroryxSg_0A00aG0CtlF",
+            "moduleName": "VmaxVideoHelper",
+            "genericSig": "<τ_0_0>",
+            "sugared_genericSig": "<T>",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onComplete",
+            "printedName": "onComplete(info:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "τ_0_0?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15VmaxVideoHelper0a11AdBillboardB0C10onComplete4infoyxSg_tlF",
+            "mangledName": "$s15VmaxVideoHelper0a11AdBillboardB0C10onComplete4infoyxSg_tlF",
+            "moduleName": "VmaxVideoHelper",
+            "genericSig": "<τ_0_0>",
+            "sugared_genericSig": "<T>",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
@@ -3207,6 +3567,20 @@
             "printedName": "VmaxRefreshableAssetDelegate",
             "usr": "s:4Vmax0A24RefreshableAssetDelegateP",
             "mangledName": "$s4Vmax0A24RefreshableAssetDelegateP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "VmaxCarouselAd",
+            "printedName": "VmaxCarouselAd",
+            "usr": "s:4Vmax0A10CarouselAdP",
+            "mangledName": "$s4Vmax0A10CarouselAdP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "VmaxMediaEvents",
+            "printedName": "VmaxMediaEvents",
+            "usr": "s:4Vmax0A11MediaEventsP",
+            "mangledName": "$s4Vmax0A11MediaEventsP"
           }
         ]
       },
@@ -10150,15 +10524,29 @@
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAd\/VmaxAdBillboardVideo.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1090,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAd\/VmaxAdBillboardVideo.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1138,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAd\/VmaxAdBillboardVideo.swift",
       "kind": "StringLiteral",
-      "offset": 1210,
+      "offset": 1398,
       "length": 8,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAd\/VmaxAdBillboardVideo.swift",
       "kind": "StringLiteral",
-      "offset": 1217,
+      "offset": 1405,
       "length": 10,
       "value": "\"\""
     },
@@ -10347,42 +10735,42 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAdAssetHelper\/VmaxAdAssetHelperOutStreamVideo.swift",
       "kind": "BooleanLiteral",
-      "offset": 1085,
+      "offset": 1235,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAdAssetHelper\/VmaxAdAssetHelperOutStreamVideo.swift",
       "kind": "BooleanLiteral",
-      "offset": 1114,
+      "offset": 1264,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAdAssetHelper\/VmaxAdAssetHelperOutStreamVideo.swift",
       "kind": "BooleanLiteral",
-      "offset": 1147,
+      "offset": 1297,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAdAssetHelper\/VmaxAdAssetHelperOutStreamVideo.swift",
       "kind": "BooleanLiteral",
-      "offset": 1179,
+      "offset": 1329,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAdAssetHelper\/VmaxAdAssetHelperOutStreamVideo.swift",
       "kind": "BooleanLiteral",
-      "offset": 1213,
+      "offset": 1363,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-video\/VmaxVideoHelper\/VmaxVideoHelper\/Source\/VmaxAdAssetHelper\/VmaxAdAssetHelperOutStreamVideo.swift",
       "kind": "BooleanLiteral",
-      "offset": 1252,
+      "offset": 1402,
       "length": 5,
       "value": "false"
     },

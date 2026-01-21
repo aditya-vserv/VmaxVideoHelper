@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.0 effective-5.10 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)
-// swift-module-flags: -target arm64-apple-ios12.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name VmaxVideoHelper
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+// swift-compiler-version: Apple Swift version 6.1.2 effective-5.10 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)
+// swift-module-flags: -target arm64-apple-ios12.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name VmaxVideoHelper
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -interface-compiler-version 6.1.2
 import AVKit
 import DeveloperToolsSupport
 import Foundation
@@ -118,6 +118,8 @@ extension VmaxVideoHelper.VmaxAdBillboardVideo : Vmax.VmaxAdAssetDelegate {
   public func onPrepareFailed(asset: any Vmax.VmaxAdAssetHelper, error: Vmax.VmaxError)
   public func onRendered<T>(asset: any Vmax.VmaxAdAssetHelper, result: T)
   public func onRenderFailed(asset: any Vmax.VmaxAdAssetHelper, error: Vmax.VmaxError)
+  public func onAdMuted(asset: any Vmax.VmaxAdAssetHelper)
+  public func onAdUnmuted(asset: any Vmax.VmaxAdAssetHelper)
   public func onClosed(asset: any Vmax.VmaxAdAssetHelper)
   public func onClicked(asset: any Vmax.VmaxAdAssetHelper)
   public func onClickedComplete(asset: any Vmax.VmaxAdAssetHelper)
@@ -131,6 +133,20 @@ extension VmaxVideoHelper.VmaxAdBillboardVideo : Vmax.VmaxRefreshableAssetDelega
   public func onAdPaused()
   public func onAdResumed()
   public func onAdComplete()
+}
+extension VmaxVideoHelper.VmaxAdBillboardVideo : Vmax.VmaxCarouselAd, Vmax.VmaxMediaEvents {
+  public func isCardActive() -> Swift.Bool
+  public func swipeMode() -> Vmax.VmaxCarouselSwipeMode
+  public func isAdLoaded() -> Swift.Bool
+  public func getAdWidth() -> Swift.Int
+  public func getAdHeight() -> Swift.Int
+  public func setAdCompletionListener(adCompletionListener: any Vmax.VmaxCarouselAdCompletionListener)
+  public func setAdFocus()
+  public func setAdOutOfFocus()
+  public func setAdIsDisplayedInCarousel(flag: Swift.Bool)
+  public func onAdLoaded()
+  public func onError<T>(info: T?, error: Vmax.VmaxError)
+  public func onComplete<T>(info: T?)
 }
 public protocol VmaxCompanionEventsReceiver : ObjectiveC.NSObject {
   init(adSlotIds: [Swift.String], delegate: any Vmax.VmaxCompanionEvents)
